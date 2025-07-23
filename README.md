@@ -22,3 +22,5 @@ Python packages
 pandas
 yfinance
 scikit-learn
+## Data
+We use Yahoo Finance's historical market data via the `yfinance` package:
