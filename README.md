@@ -14,7 +14,11 @@ A machine learning pipeline to predict daily S&P 500 movements using Random Fore
 
 ## Installation
 
-```bash
-git clone https://github.com/yourusername/sp500-prediction.git
-cd sp500-prediction
-pip install -r requirements.txt
+To follow this project, please install the following locally:
+
+JupyerLab
+Python 3.8+
+Python packages
+pandas
+yfinance
+scikit-learn
